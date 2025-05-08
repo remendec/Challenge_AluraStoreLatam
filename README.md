@@ -1,5 +1,7 @@
 # Challenge_AluraStoreLatam
-Análisis para Decidir qué Tienda Cerrar
+
+ANÁLISIS PARA TOMAR UNA DECISIÓN DE CIERRE
+
 Tienda 1:
 Desventajas: Calificación más baja (3.98), costo de envío más alto ($26,018.61).
 
